@@ -27,15 +27,18 @@ Now run these scripts:
 
 #### Firebase console
 
-> Firebase console: https://console.firebase.google.com
+> #### Firebase console: https://console.firebase.google.com
 
 #### Social Account console
 
-> Facebook Login: https://developers.facebook.com/apps
-> Twitter Login: https://apps.twitter.com/
-> Github Login: https://github.com/settings/developers
+> #### Facebook Login: https://developers.facebook.com/apps
+>
+> #### Twitter Login: https://apps.twitter.com/
+>
+> #### Github Login: https://github.com/settings/developers
 
 #### Npm packages link
 
-> Npm React-FirebaseUi: https://www.npmjs.com/package/react-firebaseui
-> Npm Firebase: https://www.npmjs.com/package/firebase
+> #### Npm React-FirebaseUi: https://www.npmjs.com/package/react-firebaseui
+>
+> #### Npm Firebase: https://www.npmjs.com/package/firebase
